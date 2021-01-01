@@ -17,8 +17,8 @@
 .button {
     background-color: rgb(53, 52, 52);
     color: white;
-    padding: 1.5vw;
-    font-size: 1.5vw;
+    padding: 1.1vw;
+    font-size: 1.1vw;
     border: none;
     cursor: pointer;
     float: left;
@@ -28,8 +28,8 @@
   .buttonend {
     background-color: rgb(53, 52, 52);
     color: white;
-    padding: 1.5vw;
-    font-size: 1.5vw;
+    padding: 1.1vw;
+    font-size: 1.1vw;
     border: none;
     cursor: pointer;
     float: inline-end;
@@ -46,8 +46,8 @@
 .dropbtn {
     background-color: rgb(53, 52, 52);
     color: white;
-    padding: 1.5vw;
-    font-size: 1.5vw;
+    padding: 1.1vw;
+    font-size: 1.1vw;
     border: none;
     cursor: pointer;
   }

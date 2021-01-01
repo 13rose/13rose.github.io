@@ -3,7 +3,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 55%;
   height: auto;
 }
 
@@ -13,9 +13,9 @@ h1 {
     
     width: auto;
     border: 15px;
-     padding: 50px;
-     margin: auto;
-     text-align: center;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
 }
 
 /* Navigation bar Style */
@@ -105,11 +105,15 @@ body {
 }
 
 p {
-    text-align: center;
-    color: gray;
+  text-align: center;
+  color: gray;
+  font-size: 1.25vw;
 }
 
 .explanation {
-    color: black;
-    font-size: 20px;
+  color: black;
+  font-size: 1.5vw;
 }
+
+  
+  

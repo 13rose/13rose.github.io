@@ -1,0 +1,21 @@
+/* Code that adjusts text size for body based on screen */
+@media screen and (max-width: 300px) {
+    p { font-size: 45%; }
+    .explanation { font-size: 45%; }
+  }
+  
+  @media screen and (min-width: 500px) {
+    p { font-size: 50%; }
+    .explanation { font-size: 50%; }
+  }
+  
+  @media screen and (min-width: 700px) {
+    p { font-size: 90%; }
+    .explanation { font-size: 90%; }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    p { font-size: 170%; }
+    .explanation { font-size: 170%; }
+  } 
+    

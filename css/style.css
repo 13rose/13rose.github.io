@@ -32,7 +32,7 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
-    float: inline-end;
+    float: both;
   }
 
 .NavigationBar .button:hover {
